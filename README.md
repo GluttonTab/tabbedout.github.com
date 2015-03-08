@@ -1,9 +1,8 @@
 
-Tabbedout Engineering
+GluttonTab Engineering
 
 ============================================================
-  Open, view and pay your tab securely with your phone.
+  Search, Order, View and Pay your TAB securely with your phone.
 ============================================================
 
     Projects coming soon... 
-
